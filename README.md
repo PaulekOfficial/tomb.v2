@@ -1,4 +1,7 @@
 # tomb.v2
 tomb.v2
 
-increase tomb.Gos(f func() error)
+See gopkg.in/tomb.v2 for documentation and usage details.
+
+# incease feature
+increase tomb.Gos(fs... func() error)
